@@ -1,7 +1,7 @@
 SRC_DIR = sources
 INCLUDE_DIR = includes
 CMSIS_CORE_DIR = CMSIS/Core/include
-CMSIS_STM32_DIR = CMSIS/STM32F3xx/include
+CMSIS_STM32_DIR = CMSIS/STM32F4xx/include
 
 SRC = 							\
 $(SRC_DIR)/main.c				\
